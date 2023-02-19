@@ -9,4 +9,16 @@ The application is hosted on the local device and allows for 2 users to log in (
 add, delete, or modify. This application is useful for tracking simple or complex tasks that need to be completed. The tasks and their information are stored on a MySQL
 database.
 
+Users Configured:
+
+User 1
+Username: user1
+Password: user1password
+
+User 2:
+Username: user2
+Password: user2password
+
 2/19/2023
+
+
